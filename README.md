@@ -22,7 +22,3 @@ Durante o semestre utilizaremos uma empresa fictícia para alcançar os seguinte
 5. ERP
 6. Geração de dados
 7. Apresentação
-
-## ✨ Contribuição
-
-![Ana Elisa] (C:/Users/mayum/Área de Trabalho/Fatec/Projeto Integrador/ProjetoIntegrador_Fatec/Imagens/Ana Elisa.jpg)
